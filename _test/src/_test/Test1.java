@@ -6,6 +6,7 @@ public class Test1 {
 		String s="aaa";
 		int a=10;
 		int b=5;
+		System.out.println("hello");
 	} 
 
 }
